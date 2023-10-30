@@ -13,7 +13,8 @@ Prerequisites
 Before you begin, ensure you have met the following requirements:
 
     Python 3.x
-    magic library
+    
+    pip install magic-python
 
 You can install the required library using pip:
 
