@@ -39,7 +39,7 @@ Example:
 
 bash
 
-/media/where/your/folder/lives
+    /media/where/your/folder/lives
 
 Contributing
 
