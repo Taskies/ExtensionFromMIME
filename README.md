@@ -20,13 +20,13 @@ Before you begin, ensure you have met the following requirements:
 ```bash
 pip install python-magic
 
-Clone the repository:
+    Clone the repository:
 
 ```bash
 git clone https://github.com/Taskies/ExtensionFromMIME
 cd ExtensionFromMIME
 
-Run the script:
+    Run the script:
 
 ```bash
 python mime_rename.py
@@ -41,3 +41,4 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 License
 
 This project is MIT licensed.
+
