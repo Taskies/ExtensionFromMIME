@@ -13,14 +13,13 @@ Prerequisites
 Before you begin, ensure you have met the following requirements:
 
     Python 3.x
-    
-    pip install magic-python
+    magic library
 
 You can install the required library using pip:
 
 bash
 
-    pip install python-magic
+    pip install magic-python
 
 Clone the repository:
 
