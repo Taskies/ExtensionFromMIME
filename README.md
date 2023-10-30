@@ -16,21 +16,18 @@ Before you begin, ensure you have met the following requirements:
 
 You can install the required library using pip:
 
-bash
-
+'''bash
 pip install python-magic
 
 Clone the repository:
 
-bash
-
+'''bash
 git clone https://github.com/Taskies/ExtensionFromMIME
 cd ExtensionFromMIME
 
     Run the script:
 
-bash
-
+'''bash
 python mime_rename.py
 
     When prompted, enter the path to the directory you wish to scan and rename files.
