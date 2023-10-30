@@ -50,5 +50,5 @@ License
 This project is MIT licensed.
 
 ```graphql
-# Special thanks to OpenAI's ChatGPT for guidance and assistance in script development.
+# Special thanks to OpenAI's ChatGPT for assistance in script development.
 ```
