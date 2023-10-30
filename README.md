@@ -18,7 +18,7 @@ Before you begin, ensure you have met the following requirements:
     You can install the required library using pip:
 
 ```bash
-pip install python-magic
+pip install python-magic```
 
     Clone the repository:
 
