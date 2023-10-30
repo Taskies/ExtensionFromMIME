@@ -20,9 +20,7 @@ bash
 
 pip install python-magic
 
-Usage
-
-    Clone the repository:
+Clone the repository:
 
 bash
 
