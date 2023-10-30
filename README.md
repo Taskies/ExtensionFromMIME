@@ -48,3 +48,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 License
 
 This project is MIT licensed.
+
+```graphql
+# Special thanks to OpenAI's ChatGPT for guidance and assistance in script development.
+```
